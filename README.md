@@ -58,11 +58,23 @@ After the server is runned open your brower and browse to the following address:
 
 ## Authors
 
-👤 **Author**
+👤 **Authors**
 
+### 1. Josh Batey
 - GitHub: [Bateyjosue](https://github.com/Bateyjosue)
 - Twitter: [bateyjosue](https://twitter.com/JosueBatey)
 - LinkedIn: [bateyjosue](https://linkedin.com/in/josuebatey)
+
+### 2. Junior Hirwa
+- GitHub: [Junior Hirwa](https://github.com/HIRWA13)
+- Twitter: [@itshirwa](https://twitter.com/itshirwa)
+- LinkedIn: [Junior Hirwa](https://linkedin.com/in/hirwajr)
+
+### 3. Kevine Mugisha
+
+### 4. Ange Karara
+
+
 ## Acknowledgement
     To : The Gym x Ojemba Team
 
